@@ -12,7 +12,7 @@ public class Main {
         double c = scanner.nextDouble();
 
         //Sonucu hesaplayan ve bastıran kod bloğu
-        double result = a+b*c-b;
+        double result = a+(b*c)-b;
         System.out.println("Sonuç= " + result);
 
 
